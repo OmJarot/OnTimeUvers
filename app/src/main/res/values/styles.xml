@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Table" parent="">
+        <item name="android:background">@drawable/btn_grey</item>
+    </style>
+    <style name="Tables" parent="">
+        <item name="android:background">@drawable/btn_white</item>
+    </style>
+</resources>
